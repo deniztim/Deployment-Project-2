@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="388c9832-e0bd-4ead-9038-b906b5c15f41" name="Bitbukety" url="http://localhost:7990">
+        <fileTransfer port="0" mountedRoot="D:\Atlassian Workspace\Bamboo Maven Trial" accessType="MOUNT" />
+      </webServer>
+    </option>
+  </component>
+</project>

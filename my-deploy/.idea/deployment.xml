@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="Bitbukety">
+    <serverData>
+      <paths name="Bitbukety">
+        <serverdata>
+          <mappings>
+            <mapping deploy="http://localhost:7990/scm/ji/deployment-project-2.git" local="$PROJECT_DIR$" web="http://localhost:7990/scm/ji/deployment-project-2.git" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
