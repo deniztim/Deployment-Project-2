@@ -1,0 +1,27 @@
+<atlassian-ide-plugin>
+  <project-configuration id="1">
+    <servers id="2">
+      <bamboo id="3">
+        <server-id id="4">3901338b-1bf6-46fe-b80f-2d08c214f5a1</server-id>
+        <name>BambooServerLocal</name>
+        <url>http://localhost:8085</url>
+        <shared>false</shared>
+        <use-favourites>false</use-favourites>
+        <show-branches>true</show-branches>
+        <my-branches-only>false</my-branches-only>
+        <bamboo2>true</bamboo2>
+        <plans id="5">
+          <plan id="6" key="JIR-BAM" grouped="0" />
+        </plans>
+      </bamboo>
+      <jira id="7">
+        <server-id id="8">2b5c730b-c003-4532-83b0-8ba243c89773</server-id>
+        <name>JiraSoftwareLocal</name>
+        <url>http://localhost:8080</url>
+        <shared>false</shared>
+        <useSessionCookies>false</useSessionCookies>
+      </jira>
+    </servers>
+    <default-jira-server reference="8" />
+  </project-configuration>
+</atlassian-ide-plugin>
